@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.exe
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.dll
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\bin\Debug\netcoreapp3.0\CreateAttribute.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.dll
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\REFLECTION AND ATTRIBUTES\AuthorProblem\obj\Debug\netcoreapp3.0\CreateAttribute.genruntimeconfig.cache

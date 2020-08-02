@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\bin\Debug\netcoreapp3.0\InterfacesAndAbstraction.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\InterfacesAndAbstraction\obj\Debug\netcoreapp3.0\InterfacesAndAbstraction.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.genruntimeconfig.cache

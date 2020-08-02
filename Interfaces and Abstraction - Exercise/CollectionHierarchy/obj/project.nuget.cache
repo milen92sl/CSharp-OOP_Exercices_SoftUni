@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "He6AZ16Byfq1hNXbawZ7kyKgDOZVjmsd5dPJHN0crA8NKrC9T+pTYXHvsU+pN82/AKzUmvf1IfUGaMVTY28I6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N1\\source\\repos\\C# OOP Exercices\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\CollectionHierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

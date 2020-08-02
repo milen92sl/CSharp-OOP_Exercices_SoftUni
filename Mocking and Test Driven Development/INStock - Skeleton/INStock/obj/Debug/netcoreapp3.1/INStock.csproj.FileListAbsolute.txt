@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and Test Driven Development\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

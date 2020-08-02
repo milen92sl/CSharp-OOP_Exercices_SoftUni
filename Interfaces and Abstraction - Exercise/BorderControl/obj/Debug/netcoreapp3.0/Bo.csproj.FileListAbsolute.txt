@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\bin\Debug\netcoreapp3.0\Bo.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\Bo\obj\Debug\netcoreapp3.0\Bo.genruntimeconfig.cache

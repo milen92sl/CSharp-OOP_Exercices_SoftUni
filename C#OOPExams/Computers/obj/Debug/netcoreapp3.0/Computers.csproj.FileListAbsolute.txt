@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

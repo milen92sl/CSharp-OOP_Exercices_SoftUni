@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0kOhXNaLb2iWJfBMvhAf4031rZlu3J8KcjAOmf2hAhL0BodhJXftWkDqElilh44/6lf94biQ5bou6oSh896kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N1\\source\\repos\\C# OOP Exercices\\Interfaces and Abstraction - Exercise\\FoodShortage\\FoodShortage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

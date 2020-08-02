@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\bin\Debug\netcoreapp3.0\FoodShortage.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\FoodShortage\obj\Debug\netcoreapp3.0\FoodShortage.genruntimeconfig.cache

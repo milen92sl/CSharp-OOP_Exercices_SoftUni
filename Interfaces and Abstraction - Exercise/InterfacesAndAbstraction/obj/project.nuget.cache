@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQgAnAWUfIAIana8a4X+GkfE9obTcftjkXEsqk+cQaJMPyNmt1ist+o6MJN7n5p6Of3vQYjqY2QsQC3DfZpwrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N1\\source\\repos\\C# OOP Exercices\\Interfaces and Abstraction - Exercise\\InterfacesAndAbstraction\\InterfacesAndAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

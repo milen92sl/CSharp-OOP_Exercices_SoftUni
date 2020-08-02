@@ -1,0 +1,12 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.genruntimeconfig.cache

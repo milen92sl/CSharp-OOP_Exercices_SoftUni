@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Unit Testing Lab\UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll

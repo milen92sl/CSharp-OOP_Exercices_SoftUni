@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Mocking and TDD Exercise\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache

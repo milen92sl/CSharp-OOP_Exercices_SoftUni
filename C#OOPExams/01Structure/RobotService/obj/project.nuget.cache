@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+NEu2pO1ywv96oSjVkNHuIu6zxVGQBA2CJEibvaz7aG5r7nUwR9PchWw1XCZNaC09AHU7cVaP8GvPkqzYzMiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N1\\source\\repos\\C# OOP Exercices\\C#OOPExams\\01Structure\\RobotService\\RobotService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\N1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

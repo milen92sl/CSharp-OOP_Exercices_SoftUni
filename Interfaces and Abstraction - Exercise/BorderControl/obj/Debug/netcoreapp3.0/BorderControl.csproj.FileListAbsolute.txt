@@ -1,0 +1,13 @@
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.exe
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.deps.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.dev.json
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfo.cs
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.dll
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.pdb
+C:\GitHubRepo\C# Advanced\OOP\Interfaces and Abstraction - Exercise\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.genruntimeconfig.cache

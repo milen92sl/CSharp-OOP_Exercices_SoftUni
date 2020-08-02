@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

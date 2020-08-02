@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache

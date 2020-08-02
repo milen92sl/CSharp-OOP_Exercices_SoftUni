@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\01Structure\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache
