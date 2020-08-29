@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\N1\source\repos\C# OOP Exercices\C#OOPExams\SantaWorkshopExam\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
