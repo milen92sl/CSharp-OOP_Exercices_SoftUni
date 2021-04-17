@@ -1,0 +1,13 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# OOP Exercices\C#OOPExams\EasterRaces_ExamPrepOOP 2021\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
